@@ -1,4 +1,4 @@
-**README FILE - Testes**
+**README FILE - Treinamento**
 
 Hello Git and GitHub
 Hello Git and GitHub - Updated
