@@ -1,4 +1,4 @@
-**README FILE - Treinamento**
+**README FILE - Training Program**
 
 Hello Git and GitHub
 Hello Git and GitHub - Updated
